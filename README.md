@@ -1,0 +1,1 @@
+# Trend-Forecasting-Models-and-Seasonality-with-Time-Series
